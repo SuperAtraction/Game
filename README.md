@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+## Bienvenue sur les pages GitHub
 
-You can use the [editor on GitHub](https://github.com/SuperAtraction/Game/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Vous pouvez utiliser [l'éditeur sur GitHub](https://github.com/SuperAtraction/Game/edit/main/README.md) pour conserver et prévisualiser le contenu de votre site Web dans des fichiers Markdown.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Chaque fois que vous vous engagez dans ce référentiel, GitHub Pages exécutera [Jekyll](https://jekyllrb.com/) pour reconstruire les pages de votre site, à partir du contenu de vos fichiers Markdown.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown est une syntaxe légère et facile à utiliser pour styliser votre écriture. Il comprend des conventions pour
 
-```markdown
-Syntax highlighted code block
+``` démarque
+Bloc de code en surbrillance syntaxique
 
-# Header 1
-## Header 2
-### Header 3
+# En-tête 1
+## En-tête 2
+### En-tête 3
 
-- Bulleted
-- List
+- À puces
+- Lister
 
-1. Numbered
-2. List
+1. Numéroté
+2. Liste
 
-**Bold** and _Italic_ and `Code` text
+**Gras** et _Italique_ et `Code` texte
 
-[Link](url) and ![Image](src)
+[Lien](url) et ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Pour plus de détails, voir [Syntaxe d'écriture et de formatage de base](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic- écriture-et-formatage-syntaxe).
 
-### Jekyll Themes
+### Thèmes Jekyll
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SuperAtraction/Game/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Votre site Pages utilisera la mise en page et les styles du thème Jekyll que vous avez sélectionné dans vos [paramètres du référentiel](https://github.com/SuperAtraction/Game/settings/pages). Le nom de ce thème est enregistré dans le fichier de configuration Jekyll `_config.yml`.
 
-### Support or Contact
+### Assistance ou contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Vous rencontrez des problèmes avec Pages ? Consultez notre [documentation](https://docs.github.com/categories/github-pages-basics/) ou [contact support](https://support.github.com/contact) et nous vous aiderons faites le tri. 
